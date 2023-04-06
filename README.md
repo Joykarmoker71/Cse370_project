@@ -1,2 +1,2 @@
-# Cse470_project
+# Cse370_project
  Emergency blood bank
